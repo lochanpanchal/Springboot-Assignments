@@ -1,0 +1,15 @@
+{
+  "addId": 1,
+  "addStreet": "simlawararoad",
+  "addCity": "Dungarpur",
+  "addState": "Rajasthan",
+  "addZipcode": "314404"
+}
+
+{
+  "addId": 2,
+  "addStreet": "matugamdaRoad",
+  "addCity": "Dungarpur",
+  "addState": "Rajasthan",
+  "addZipcode": "314001"
+}
